@@ -1,0 +1,53 @@
+{
+  "google": {
+    "name": "Electrónica Mega",
+    "category": "Taller de reparaciones eléctricas",
+    "address": "Av. Central España, Panamá, Provincia de Panamá",
+    "phone": "6260-2679",
+    "website": "",
+    "hours": {
+      "info": "miércoles, De 8 a.m. a 6 p.m., Copiar el horario de atención"
+    },
+    "rating": "5.0",
+    "review_count": "",
+    "reviews": [
+      {
+        "name": "Irvin Godoy\nLocal Guide · 28 opiniones · 1 foto",
+        "stars": "5",
+        "text": "Muy buen servicio, rápido y efectivo"
+      },
+      {
+        "name": "Irvin Godoy\nLocal Guide · 28 opiniones · 1 foto",
+        "stars": "5",
+        "text": "Muy buen servicio, rápido y efectivo"
+      },
+      {
+        "name": "Cecilia Wy\nLocal Guide · 9 opiniones · 13 fotos",
+        "stars": "5",
+        "text": "Excelente servicio … honestos y rápidos ✨👍🏻…"
+      },
+      {
+        "name": "Cecilia Wy\nLocal Guide · 9 opiniones · 13 fotos",
+        "stars": "5",
+        "text": "Excelente servicio … honestos y rápidos ✨👍🏻…"
+      },
+      {
+        "name": "Luckson Electrónica\n4 opiniones · 1 foto",
+        "stars": "5",
+        "text": "4 opiniones · 1 foto"
+      },
+      {
+        "name": "Luckson Electrónica\n4 opiniones · 1 foto",
+        "stars": "5",
+        "text": "4 opiniones · 1 foto"
+      }
+    ],
+    "photos_downloaded": []
+  },
+  "social": {},
+  "socials_urls": {
+    "instagram": "",
+    "facebook": ""
+  },
+  "scraped_at": "2026-03-11T14:51:16.012953"
+}
